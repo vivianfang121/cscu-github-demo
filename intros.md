@@ -15,3 +15,4 @@
 - My account username is 2xyu and I often like to read.
 - My name is Richard and my favourite food is spaghetti.
 - My name is Abishanan and I am an average C++ enjoyer.
+- My name is Riddhima and my favourite animal is a duck.
