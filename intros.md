@@ -13,3 +13,5 @@
 - My name is Humza I like to cook pizza and try cool toppings on it! ps pineapple works:)
 - My name is Irum and I love Harry Potter!
 - My account username is 2xyu and I often like to read.
+- My name is Richard and my favourite food is spaghetti.
+
