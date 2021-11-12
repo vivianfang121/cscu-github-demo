@@ -20,3 +20,4 @@
 - My name is Wisdom and my favorite food is ice cream.
 - My name is Justin and my favourite sport is Hockey
 - My name is Shameer and my favoutite TV show is friends.
+- My name is Lynn and my favorite colour is blue.
