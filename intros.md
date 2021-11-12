@@ -5,3 +5,4 @@
 - My name is Dumebi and i like sushi
 - My name is Thao and my name rhymes with cow
 - My name is Andrae and I am in first year! Follow my instagram as well @andraecari
+- My name is Woosung and I love playing Volleyball. A fun fact about me is that I'm short but I'm able to touch the basketball rim. :D
