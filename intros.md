@@ -18,3 +18,5 @@
 - My name is Riddhima and my favourite animal is a duck.
 - My name is Jennifer and my favourite flavour of ice cream is mint chip. 
 - My name is Wisdom and my favorite food is ice cream.
+- My name is Justin and my favourite sport is Hockey
+
